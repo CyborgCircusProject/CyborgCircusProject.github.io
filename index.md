@@ -1,3 +1,10 @@
+---
+layout: page
+title: The Cyborg Circus Project
+tagline: Some kind of catchy phrase about the project goes here. Jen, Shay, say something clever!
+description: Circus. And dance. And disability. And stuff. And awesomeness. And lots of crip love.
+---
+
 # About The Cyborg Circus Project
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat maecenas volutpat blandit aliquam etiam. Dis parturient montes nascetur ridiculus. Ac placerat vestibulum lectus mauris ultrices eros. Libero enim sed faucibus turpis in eu mi. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Nunc non blandit massa enim nec dui nunc. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Amet nisl purus in mollis nunc sed id semper. 
