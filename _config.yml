@@ -1,3 +1,7 @@
+name: The Cyborg Cirus Project (name field)
+title: The Cyborg Circus Project (title field)
+description: Website for the Cyborg Circus Project (description field)
+
 theme: jekyll-theme-midnight
 
 plugins:
