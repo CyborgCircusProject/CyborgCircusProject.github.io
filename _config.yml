@@ -1,6 +1,6 @@
-name: The Cyborg Cirus Project (name field)
-title: The Cyborg Circus Project (title field)
-description: Website for the Cyborg Circus Project (description field)
+name: The Cyborg Cirus Project
+title: The Cyborg Circus Project
+description: Some kind of catchy phrase goes here. Jen, Shay, say something clever.
 
 theme: jekyll-theme-midnight
 
